@@ -43,35 +43,35 @@ Waterfall is best suited for projects that are well defined, regulatory and heav
 
 **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
 
-*Software developer writes, tests and maintain software code using version control systems based on requirements. They also collaborate with designers, testers and other developers.
+* Software developer writes, tests and maintain software code using version control systems based on requirements. They also collaborate with designers, testers and other developers.
 
-*A quality assurance engineer is responsible for ensuring software meets quality standards before release. They design test plans, test cases and automated test scripts. They conduct manual and automated testing where they identify, report and track bugs.
+* A quality assurance engineer is responsible for ensuring software meets quality standards before release. They design test plans, test cases and automated test scripts. They conduct manual and automated testing where they identify, report and track bugs.
 
-*A project manager oversees the software development process, ensuring project goals are met on time and within budget. They also manage resources, team coordination and risk mitigation. They communicate with stakeholders, clients and the development team in ensuring that the project is done within a time frame.
+* A project manager oversees the software development process, ensuring project goals are met on time and within budget. They also manage resources, team coordination and risk mitigation. They communicate with stakeholders, clients and the development team in ensuring that the project is done within a time frame.
 
 **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
 
-*Integrated development environment (IDE) is an application software that provides a comprehensive environment for writing, testing, and debugging code. An example of IDE is Visual studio code.
+* Integrated development environment (IDE) is an application software that provides a comprehensive environment for writing, testing, and debugging code. An example of IDE is Visual studio code.
 
-*Version control system (VCS) is a tool that tracks changes in code, enabling collaboration and version management. An example of VCS is Git.
+* Version control system (VCS) is a tool that tracks changes in code, enabling collaboration and version management. An example of VCS is Git.
 
 **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
-*Software engineers have issues maintaining, debugging and understanding complex codebases. They can overcome this by following clean code principles and using version control systems.
+* Software engineers have issues maintaining, debugging and understanding complex codebases. They can overcome this by following clean code principles and using version control systems.
 
-*They have issues meeting deadlines and project timelines. To overcome this, they need to set realistic deadlines, use agile methodology and communicate regularly with stakeholders. 
+* They have issues meeting deadlines and project timelines. To overcome this, they need to set realistic deadlines, use agile methodology and communicate regularly with stakeholders. 
 
-*Another issue is debugging and fixing bugs. They can overcome this by using debugging tools and writing unit and integration tests. 
+* Another issue is debugging and fixing bugs. They can overcome this by using debugging tools and writing unit and integration tests. 
 
-*Software engineers are faced with security vulnerabilities by hackers. They can overcome this by following secure coding practices, regularly update dependencies, use security tools and conducting security audits.
+* Software engineers are faced with security vulnerabilities by hackers. They can overcome this by following secure coding practices, regularly update dependencies, use security tools and conducting security audits.
 
 **Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
 * Unit testing: It involves testing individual components or functions of the software in isolation. It catches bugs early, making it easier and cheaper to fix them.
 
-*Integration testing: It tests how different components or modules interact with each other. It detects issues in data flow and interaction between different modules before deployment. 
+* Integration testing: It tests how different components or modules interact with each other. It detects issues in data flow and interaction between different modules before deployment. 
 
-*System testing: It tests the entire application as a complete system to ensure it meets requirements. It validates the software's overall performance, functionality and compliance with business requirements.
+* System testing: It tests the entire application as a complete system to ensure it meets requirements. It validates the software's overall performance, functionality and compliance with business requirements.
 
-*Acceptance testing: It ensures the software meets business requirements and is ready for deployment. It determines whether the software is fit for release and acceptable to the client.
+* Acceptance testing: It ensures the software meets business requirements and is ready for deployment. It determines whether the software is fit for release and acceptable to the client.
 
 ### Part 2: Introduction to AI and Prompt Engineering
 
